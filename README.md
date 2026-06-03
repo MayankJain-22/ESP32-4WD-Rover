@@ -145,12 +145,9 @@ ESP32-4WD-Rover/
 │
 ├── Images/
 │   ├── top_view.jpeg
-│   ├── side_view.jpeg
-│   ├── connections.jpeg
-│   └── web_interface.png
-│
-└── Docs/
-    └── (add circuit diagram, project report here)
+    ├── side_view.jpeg
+    ├── connections.jpeg
+    └── web_interface.png
 ```
 
 ---
