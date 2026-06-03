@@ -16,9 +16,13 @@ A 4-wheel drive rover controlled wirelessly from any browser over WiFi, with rea
 |:--------:|:---------:|
 | ![Top View](Images/top_view.jpeg) | ![Side View](Images/side_view.jpeg) |
 
-| Wiring / Connections | Web Interface |
-|:--------------------:|:-------------:|
-| ![Connections](Images/connections.jpeg) | ![Web Interface](Images/web_interface.png) |
+| Web Interface |
+|:-------------:|
+| ![Web Interface](Images/web_interface.png) |
+
+| Wiring / Connections |
+|:--------------------:|
+| ![Connections](Images/connections.jpeg) |
 
 ---
 
