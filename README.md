@@ -157,7 +157,7 @@ ESP32-4WD-Rover/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ESP32-4WD-Rover.git
+git clone https://github.com/MayankJain-22/ESP32-4WD-Rover.git
 cd ESP32-4WD-Rover
 ```
 
