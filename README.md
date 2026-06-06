@@ -6,7 +6,7 @@ A 4-wheel drive rover controlled wirelessly from any browser over WiFi, with rea
 
 ## 📹 Demo Video
 
-[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/YouTube-Demo%20Video-red?logo=youtube)](https://youtube.com/shorts/frdt8GVgWrE?feature=share)
 
 ---
 
